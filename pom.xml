@@ -36,10 +36,6 @@
 <scope>test</scope>
 </dependency>
 </dependencies>
-#<scm>
-#<connection>scm:svn:http://192.168.33.11:8081/subversion/</connection>
-#<developerConnection>scm:svn:http://192.168.33.11:8081/subversion/</developerConnection>
-#</scm>
 <distributionManagement>
 <repository>
 <id>package</id>
